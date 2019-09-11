@@ -3,8 +3,6 @@ import Portfolio from "./port";
 import Skills from "./skill";
 import "../css/base.css";
 import "../css/home.css";
-import Me from "../img/me.jpeg";
-
 class Home extends Component {
   constructor(props) {
     super(props);
@@ -53,11 +51,13 @@ class Home extends Component {
         <section className="footer">
           <footer className="footer-wrapper">
             <div>
-              <span> © SiteName  2019 Copyright </span>
-              <a href="#"> Contact Me </a>
-              <a href="#"> Resume </a>
-              <a href="#"> LinkIn </a>
-              <a href="#"> GitHub </a>
+              <span className="copyright"> &copy; Copyright 2058, Example Corporation </span>
+              <div className="helpful-link">
+                <a href="#"> Contact Me </a>
+                <a href="#"> Resume </a>
+                <a href="#"> LinkIn </a>
+                <a href="#"> GitHub </a>
+              </div>
 
             </div>
           </footer>

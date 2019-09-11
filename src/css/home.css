@@ -111,7 +111,7 @@ header.portfolio h2 {
   text-align: center;
   margin-right: 10px;
   padding: 5px 20px;
-  font-size: 1.5em;
+  font-size: 1.2em;
   font-weight: 200;
 }
 
@@ -154,6 +154,7 @@ header.portfolio h2 {
 
 #skills {
   text-align: center;
+  background-color: #ececec;
 }
 
 header.skill {
@@ -170,7 +171,7 @@ header.skill {
 }
 
 header.skill h2 {
-  color: #25383b;
+  color: #000000;
   font-weight: 700;
   line-height: 1.5em;
   margin: 0 0 2em 0em;
@@ -188,6 +189,7 @@ header.skill h3 {
   font-weight: 100;
   font-size: 2em;
   margin-bottom: 1.5em;
+  color: #000000;
 }
 
 @media (min-width: 840px) {
@@ -212,7 +214,7 @@ header.skill h3 {
   margin: 0;
   width: 49%;
   height: 10em;
-  background-color: #f3f3f3;
+  background-color: white;
   margin: 1px;
 }
 
@@ -259,26 +261,62 @@ header.skill h3 {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
   width: 100%;
   margin: 0 auto;
 }
 
 @media (min-width: 840px) {
   .footer-wrapper div {
-    width: 60%;
+    width: 70%;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
   }
+}
+
+.copyright {
+  display: none;
+}
+
+@media (min-width: 840px) {
+  .copyright {
+    display: block;
+    color: #f3f3f3;
+    font-size: 1.0em;
+    -webkit-box-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    text-align: center;
+  }
+}
+
+.helpful-link {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 
 .footer-wrapper a {
   color: #001333;
   border-radius: 15px;
   text-decoration: none;
-  font-weight: bold;
+  font-weight: 500;
   background-color: #fff6bb;
   display: block;
   text-align: center;
-  margin: 10px auto 0 auto;
   padding: 5px;
-  width: 7em;
+  margin: 0 5px;
+}
+
+@media (min-width: 840px) {
+  .footer-wrapper a {
+    width: 7em;
+  }
 }
 /*# sourceMappingURL=home.css.map */

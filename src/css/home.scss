@@ -85,7 +85,7 @@ header.portfolio h2{
   //margin: 10px auto 0 auto;
   margin-right: 10px;
   padding: 5px 20px;
-  font-size: 1.5em;
+  font-size: 1.2em;
   font-weight: 200;
 }
 .image {
@@ -117,13 +117,9 @@ header.portfolio h2{
   font-size: 1.2em;
   color: black;
 }
-// .content h2 {
-//   color: black;
-//   margin-bottom: 1em;
-// }
-
 #skills {
   text-align: center;
+  background-color: #ececec;
 }
 
 header.skill {
@@ -136,7 +132,7 @@ header.skill {
   }
 }
 header.skill h2 {
-  color: #25383b;
+  color: #000000;//#25383b;
   font-weight: 700;
   line-height: 1.5em;
   margin: 0 0 2em 0em;
@@ -150,6 +146,7 @@ header.skill h3{
   font-weight: 100;
   font-size: 2em;
   margin-bottom: 1.5em;
+  color: #000000;
   @include desktop {
     font-size: 3em;
   }
@@ -166,7 +163,7 @@ header.skill h3{
   margin: 0;
   width: 49%;
   height: 10em;
-  background-color: #f3f3f3;
+  background-color: white;//#f3f3f3;
   margin: 1px;
   @include desktop {
     width: 25%;
@@ -198,21 +195,47 @@ header.skill h3{
 .footer-wrapper div{
   display: flex;
   flex-direction: row;
+  justify-content: center;
   width: 100%;
   margin: 0 auto;
   @include desktop {
-    width: 60%
+    width: 70%;
+    justify-content: center;
   }
+}
+
+.copyright{
+  display: none;
+  @include desktop {
+    display: block;
+    color: #f3f3f3;
+    font-size: 1.0em;
+    flex: 1;
+    text-align: center;
+    
+  }
+}
+.helpful-link{
+  flex: 1;
+  display: flex;
 }
 .footer-wrapper a{
   color: #001333;
   border-radius: 15px;
   text-decoration: none;
-  font-weight: bold;
+  font-weight: 500;
+  //font-weight: bold;
   background-color: #fff6bb;
   display: block;
   text-align: center;
-  margin: 10px auto 0 auto;
+  //margin: 10px auto 0 auto;
   padding: 5px;
-  width: 7em;
+  margin: 0 5px;
+  //width: 0em;
+  @include desktop {
+    //margin: 0 5px;
+    //padding: 5px;
+    width: 7em;
+
+  }
 }
