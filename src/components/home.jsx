@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Portfolio from "./port";
 import Skills from "./skill";
+import pdf from "./resume.pdf";
 import "../css/base.css";
 import "../css/home.css";
 class Home extends Component {
@@ -21,7 +22,7 @@ class Home extends Component {
                 </li>
                 <li>
                   <span />
-                  <strong>IOS apps with swift5 and latest xcode</strong>
+                  <strong>IOS apps with swift5 and the latest Xcode</strong>
                 </li>
                 <li>
                   <span />
@@ -32,12 +33,11 @@ class Home extends Component {
 
             <section id="primary">
               <h2> your one stop shop developer on-demand</h2>
-
               <div>
-                <a href="#"> Contact Me </a>
-                <a href="#"> Resume </a>
-                <a href="#"> LinkIn </a>
-                <a href="#"> GitHub </a>
+                <a href="mailto:viekntopierre@gmail.com"> Contact Me </a>
+                <a href={pdf} target="_blank"> Resume </a>
+                <a href="https://www.linkedin.com/in/vikentor-pierre-155886161?trk=people-guest_profile-result-card_result-card_full-click" target="_blank"> LinkIn </a>
+                <a href="https://github.com/VikentorPierre" target="_blank"> GitHub </a>
               </div>
             </section>
           </div>
@@ -53,10 +53,10 @@ class Home extends Component {
             <div>
               <span className="copyright"> &copy; Copyright 2058, Example Corporation </span>
               <div className="helpful-link">
-                <a href="#"> Contact Me </a>
-                <a href="#"> Resume </a>
-                <a href="#"> LinkIn </a>
-                <a href="#"> GitHub </a>
+                <a href="mailto:vikentorpierre@gmail.com"> Contact Me </a>
+                <a href={pdf} target="_blank"> Resume </a>
+                <a href="https://www.linkedin.com/in/vikentor-pierre-155886161?trk=people-guest_profile-result-card_result-card_full-click"> LinkIn </a>
+                <a href="https://github.com/VikentorPierre" target="_blank"> GitHub </a>
               </div>
 
             </div>

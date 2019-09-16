@@ -33,7 +33,7 @@ main {
   height: 590px;
   position: relative;
   //position: absolute;
-  z-index: -1;
+  //z-index: 99;
 
   @include desktop {
    // clip-path: polygon(0 0, 75% 0, 55% 100%, 0% 100%);
@@ -147,7 +147,8 @@ section#primary {
     margin: 10px auto 0 auto;
     padding: 5px;
     width: 7em;
-
+    cursor:pointer !important;
+    position: relative;
     @include desktop {
       display: inline-block;
       padding: $padding;

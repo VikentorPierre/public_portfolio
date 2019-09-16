@@ -14,7 +14,7 @@ const Skills = () => {
       <header class="header skill">
         <h2> Skills </h2>
         <h3>
-          All of my Skills are 3+ years
+          All of my Skills are 4+ years
         </h3>
       </header>
       <div class="image-grid">
