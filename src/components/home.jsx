@@ -36,7 +36,10 @@ class Home extends Component {
               <div>
                 <a href="mailto:viekntopierre@gmail.com"> Contact Me </a>
                 <a href={pdf} target="_blank"> Resume </a>
-                <a href="https://www.linkedin.com/in/vikentor-pierre-155886161?trk=people-guest_profile-result-card_result-card_full-click" target="_blank"> LinkIn </a>
+                {/* https://www.linkedin.com/in/vikentor-pierre-155886161 */}
+                <a href="https://www.linkedin.com/in/vikentor-pierre-155886161" target="_blank"> LinkIn </a>
+
+                {/* <a href="https://www.linkedin.com/in/vikentor-pierre-155886161?trk=people-guest_profile-result-card_result-card_full-click" target="_blank"> LinkIn </a> */}
                 <a href="https://github.com/VikentorPierre" target="_blank"> GitHub </a>
               </div>
             </section>
@@ -51,11 +54,11 @@ class Home extends Component {
         <section className="footer">
           <footer className="footer-wrapper">
             <div>
-              <span className="copyright"> &copy; Copyright 2058, Example Corporation </span>
+              <span className="copyright"> &copy; Copyright 2019, modevtech </span>
               <div className="helpful-link">
                 <a href="mailto:vikentorpierre@gmail.com"> Contact Me </a>
                 <a href={pdf} target="_blank"> Resume </a>
-                <a href="https://www.linkedin.com/in/vikentor-pierre-155886161?trk=people-guest_profile-result-card_result-card_full-click"> LinkIn </a>
+                <a href="https://www.linkedin.com/in/vikentor-pierre-155886161" target="_blank"> LinkIn </a>
                 <a href="https://github.com/VikentorPierre" target="_blank"> GitHub </a>
               </div>
 
