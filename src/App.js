@@ -5,7 +5,7 @@ import Home from "./components/home";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={window.location.pathname || ''}>
       <div className="App">
         <Route exact path="/" component={Home} />
       </div>
