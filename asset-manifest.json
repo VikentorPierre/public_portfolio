@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/public_portfolio/static/css/main.9301ba16.chunk.css",
-    "main.js": "/public_portfolio/static/js/main.e6d4fb0d.chunk.js",
-    "main.js.map": "/public_portfolio/static/js/main.e6d4fb0d.chunk.js.map",
-    "runtime~main.js": "/public_portfolio/static/js/runtime~main.d722a053.js",
-    "runtime~main.js.map": "/public_portfolio/static/js/runtime~main.d722a053.js.map",
-    "static/js/2.9d37fe12.chunk.js": "/public_portfolio/static/js/2.9d37fe12.chunk.js",
-    "static/js/2.9d37fe12.chunk.js.map": "/public_portfolio/static/js/2.9d37fe12.chunk.js.map",
-    "index.html": "/public_portfolio/index.html",
-    "precache-manifest.b746d745d98cff4462d22b9f3e0ba925.js": "/public_portfolio/precache-manifest.b746d745d98cff4462d22b9f3e0ba925.js",
-    "service-worker.js": "/public_portfolio/service-worker.js",
-    "static/css/main.9301ba16.chunk.css.map": "/public_portfolio/static/css/main.9301ba16.chunk.css.map",
-    "static/media/apex.png": "/public_portfolio/static/media/apex.e63f45b6.png",
-    "static/media/gitIcon.png": "/public_portfolio/static/media/gitIcon.9e4f61c7.png",
-    "static/media/jsImg2.png": "/public_portfolio/static/media/jsImg2.7632c782.png",
-    "static/media/reactIcon2.png": "/public_portfolio/static/media/reactIcon2.ead37a92.png",
-    "static/media/resume.pdf": "/public_portfolio/static/media/resume.557f88e7.pdf",
-    "static/media/vespo.png": "/public_portfolio/static/media/vespo.6d0f2c88.png"
+    "main.css": "/static/css/main.9301ba16.chunk.css",
+    "main.js": "/static/js/main.ceb70203.chunk.js",
+    "main.js.map": "/static/js/main.ceb70203.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.9d37fe12.chunk.js": "/static/js/2.9d37fe12.chunk.js",
+    "static/js/2.9d37fe12.chunk.js.map": "/static/js/2.9d37fe12.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f64dfd0d437099925f56e0db6f616d87.js": "/precache-manifest.f64dfd0d437099925f56e0db6f616d87.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9301ba16.chunk.css.map": "/static/css/main.9301ba16.chunk.css.map",
+    "static/media/apex.png": "/static/media/apex.e63f45b6.png",
+    "static/media/gitIcon.png": "/static/media/gitIcon.9e4f61c7.png",
+    "static/media/jsImg2.png": "/static/media/jsImg2.7632c782.png",
+    "static/media/reactIcon2.png": "/static/media/reactIcon2.ead37a92.png",
+    "static/media/resume.pdf": "/static/media/resume.557f88e7.pdf",
+    "static/media/vespo.png": "/static/media/vespo.6d0f2c88.png"
   }
 }
