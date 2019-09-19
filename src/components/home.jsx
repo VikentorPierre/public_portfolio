@@ -56,7 +56,7 @@ class Home extends Component {
             <div>
               <span className="copyright"> &copy; Copyright 2019, modevtech </span>
               <div className="helpful-link">
-                <a href="mailto:vikentorpierre@gmail.com"> Contact Me </a>
+                <a href="mailto:vikentorpierre@gmail.com"> Contact </a>
                 <a href={pdf} target="_blank"> Resume </a>
                 <a href="https://www.linkedin.com/in/vikentor-pierre-155886161" target="_blank"> LinkIn </a>
                 <a href="https://github.com/VikentorPierre" target="_blank"> GitHub </a>
