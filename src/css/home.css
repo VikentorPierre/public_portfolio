@@ -132,6 +132,7 @@ header.portfolio h2 {
 
 .feature--img {
   width: 100%;
+  min-height: 20em;
 }
 
 .content {
