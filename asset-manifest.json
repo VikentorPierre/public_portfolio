@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.6b57bed8.chunk.css",
-    "main.js": "/static/js/main.1c3d4be8.chunk.js",
-    "main.js.map": "/static/js/main.1c3d4be8.chunk.js.map",
+    "main.js": "/static/js/main.19580cdf.chunk.js",
+    "main.js.map": "/static/js/main.19580cdf.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.08683e26.chunk.js": "/static/js/2.08683e26.chunk.js",
     "static/js/2.08683e26.chunk.js.map": "/static/js/2.08683e26.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d4c1fb75ce91ef8560eeca856fb93230.js": "/precache-manifest.d4c1fb75ce91ef8560eeca856fb93230.js",
+    "precache-manifest.8bc36c58a9601b1f747acebab4ae9b27.js": "/precache-manifest.8bc36c58a9601b1f747acebab4ae9b27.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.6b57bed8.chunk.css.map": "/static/css/main.6b57bed8.chunk.css.map",
     "static/media/apex.png": "/static/media/apex.e63f45b6.png",
@@ -16,7 +16,7 @@
     "static/media/jsImg2.png": "/static/media/jsImg2.7632c782.png",
     "static/media/loneme.png": "/static/media/loneme.910b4c25.png",
     "static/media/reactIcon2.png": "/static/media/reactIcon2.ead37a92.png",
-    "static/media/resume.pdf": "/static/media/resume.557f88e7.pdf",
+    "static/media/resume.pdf": "/static/media/resume.e28dc9eb.pdf",
     "static/media/vespo.png": "/static/media/vespo.6d0f2c88.png"
   }
 }
