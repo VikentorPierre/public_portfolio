@@ -6,7 +6,7 @@ import react from "../img/reactIcon2.png";
 import figma from "../img/figmaIcon2.png";
 import js from "../img/jsImg2.png";
 import git from "../img/gitIcon.png";
-import swift from "../img/swiftImg.png";
+import wp from "../img/wordpress.png";
 
 const Skills = () => {
   return (
@@ -22,7 +22,7 @@ const Skills = () => {
           <img className="img-size" src={react} alt="reactjs" />
         </div>
         <div className="img">
-          <img className="img-size" src={nodeImg} alt="nodejs" />
+          <img className="img-size" src={wp} alt=" wordpress " />
         </div>
         <div className="img">
           <img height="150px" width="150px" src={js} alt="Javascript" />
@@ -37,7 +37,7 @@ const Skills = () => {
           <img className="img-size" src={figma} alt="figma" />
         </div>
         <div className="img">
-          <img className="img-size" src={swift} alt=" IOS swift" />
+          <img className="img-size" src={nodeImg} alt=" nodejs " />
         </div>
       </div>
 

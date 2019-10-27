@@ -18,15 +18,15 @@ class Home extends Component {
               <ul>
                 <li>
                   <span />
-                  <strong> Web-app with the MERN stack </strong>
+                  <strong> MERN stack and Wordpress </strong>
                 </li>
                 <li>
                   <span />
-                  <strong>IOS apps with swift5 and the latest Xcode</strong>
+                  <strong> UI/UX Designs with Figma and photoshop </strong>
                 </li>
                 <li>
                   <span />
-                  <strong> UI/UX Designs with Figma.</strong>
+                  <strong> SEO, Marketing with google adwords, facbook ads</strong>
                 </li>
               </ul>
             </section>
