@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b57bed8.chunk.css",
-    "main.js": "/static/js/main.9818f284.chunk.js",
-    "main.js.map": "/static/js/main.9818f284.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.08683e26.chunk.js": "/static/js/2.08683e26.chunk.js",
-    "static/js/2.08683e26.chunk.js.map": "/static/js/2.08683e26.chunk.js.map",
+    "main.css": "/static/css/main.d0d18db4.chunk.css",
+    "main.js": "/static/js/main.9f4d5d79.chunk.js",
+    "main.js.map": "/static/js/main.9f4d5d79.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d95fa099.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d95fa099.js.map",
+    "static/js/2.dcc84e45.chunk.js": "/static/js/2.dcc84e45.chunk.js",
+    "static/js/2.dcc84e45.chunk.js.map": "/static/js/2.dcc84e45.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a547ec508458f266b50df99ff8719462.js": "/precache-manifest.a547ec508458f266b50df99ff8719462.js",
+    "precache-manifest.f3a1ffdefff9b86f43010231885744f3.js": "/precache-manifest.f3a1ffdefff9b86f43010231885744f3.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.6b57bed8.chunk.css.map": "/static/css/main.6b57bed8.chunk.css.map",
+    "static/css/main.d0d18db4.chunk.css.map": "/static/css/main.d0d18db4.chunk.css.map",
+    "static/js/2.dcc84e45.chunk.js.LICENSE": "/static/js/2.dcc84e45.chunk.js.LICENSE",
     "static/media/apex.png": "/static/media/apex.e63f45b6.png",
+    "static/media/gifsearch.png": "/static/media/gifsearch.d4ffed84.png",
     "static/media/gitIcon.png": "/static/media/gitIcon.9e4f61c7.png",
     "static/media/jsImg2.png": "/static/media/jsImg2.7632c782.png",
     "static/media/loneme.png": "/static/media/loneme.910b4c25.png",
     "static/media/reactIcon2.png": "/static/media/reactIcon2.ead37a92.png",
-    "static/media/resume.pdf": "/static/media/resume.0b802dcc.pdf",
+    "static/media/resume.pdf": "/static/media/resume.e28dc9eb.pdf",
+    "static/media/simpleflix.png": "/static/media/simpleflix.14598618.png",
     "static/media/vespo.png": "/static/media/vespo.6d0f2c88.png",
     "static/media/wordpress.png": "/static/media/wordpress.f4be0cc0.png"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d95fa099.js",
+    "static/js/2.dcc84e45.chunk.js",
+    "static/css/main.d0d18db4.chunk.css",
+    "static/js/main.9f4d5d79.chunk.js"
+  ]
 }
