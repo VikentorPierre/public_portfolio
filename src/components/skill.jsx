@@ -8,7 +8,7 @@ import js from '../img/jsImg2.png';
 import git from '../img/gitIcon.png';
 import wp from '../img/wordpress.png';
 import angular from '../img/angular.png';
-import php from '../img/php.jpg';
+import php from '../img/php.png';
 
 const Skills = () => {
   return (
